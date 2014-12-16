@@ -1,0 +1,25 @@
+body {
+    background-color: lightslategrey;
+    }
+nav a {color: cyan;}
+#current-link {
+    text-decoration: none
+}
+.uppercase{
+    text-transform:uppercase;
+    font-size: 40px;
+    font-family: cursive;
+}
+img{
+    width: 700px;
+    height: auto;
+}
+h1{
+    border: 15px dotted blue;
+    padding: 15px;
+    padding-left: 110px;
+    margin: 0;
+    margin-right: 400px;
+    margin-left: 450px;
+   
+}
